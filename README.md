@@ -25,7 +25,7 @@ JX_project
 └── README.md
 ```
 ## **Démonstration du Projet**
-[Watch the video](https://github.com/oussama-art/Tp_JAX-RS-Jersey/blob/main/demo.mp4)
+https://github.com/user-attachments/assets/3443ee25-0fe2-4cef-a050-b03bbaf8eaf5
 
 
 
