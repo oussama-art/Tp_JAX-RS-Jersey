@@ -1,5 +1,6 @@
 ## **Structure du Projet**
 The project structure is organized as follows:
+```bash  
 JX_project
 ├── src
 │   └── main
@@ -22,6 +23,7 @@ JX_project
 │           └── application.properties
 ├── pom.xml
 └── README.md
+```
 ## **Démonstration du Projet**
 
 
